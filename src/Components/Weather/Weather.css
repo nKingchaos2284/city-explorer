@@ -1,0 +1,18 @@
+table {
+  width: 60px;
+}
+td {
+  width: min-content;
+  border-collapse: collapse;
+}
+td:hover {
+  font-weight: bolder;
+  font-size: 36px;
+ }
+ /* th:hover {
+   font-weight: bolder;
+ } */
+ tr:hover{
+  font-weight: bolder;
+  font-size: 36px;
+ }
