@@ -1,0 +1,12 @@
+#root {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 25px;
+}
+
+h1 {
+  color: #D93F07;
+  font-size: 400% !important
+}
