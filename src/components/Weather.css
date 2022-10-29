@@ -9,9 +9,9 @@ td:hover {
   font-weight: bolder;
   font-size: 36px;
  }
- /* th:hover {
-   font-weight: bolder;
- } */
+ th:hover {
+   color: greenyellow;
+ }
  tr:hover{
   font-weight: bolder;
   font-size: 36px;
