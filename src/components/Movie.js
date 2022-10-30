@@ -1,7 +1,7 @@
 import React from 'react';
 
 import Carousel from 'react-bootstrap/Carousel';
-import PlaceholderMovie from  '.src/assets/movie.jpg';
+import PlaceholderMovie from  '.src/assets/642540.png';
 
 class Movie extends React.Component {
     render() {

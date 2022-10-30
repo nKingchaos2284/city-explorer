@@ -1,6 +1,6 @@
 import React from 'react';
 import CitySpotsSearch from './CitySpotsSearch';
-import App from './App.css';
+// import App from './App.css';
 
 class App extends React.Component {
     render () {
