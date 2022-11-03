@@ -1,98 +1,63 @@
-# Project Name
+# City Explorer
 
 **Author**: Jose Mauricio Cabrera Elias
 **Version**: 1.0.0 (increment the patch/fix version number if you make more commits past your first submission)
 
+![Request Response](https://user-images.githubusercontent.com/112358229/198851292-90abd33d-8558-4f84-a660-d6d8daef7cb0.jpeg)
+nse.jpeg)
+
+![Request Response](./img/request_response.jpeg)
+
+![Request Response](./img/request-response.jpeg)
+
+![Request Response](./img/request-response2.jpeg)
+
 ## Overview
-I'm building this app because I like making MAGIC.
+
+This is an application that allows you to search for a city and obtain a excact location and map as well.
 
 ## Getting Started
-<!-- What are the steps that a user must take in order to build this app on their own machine and get it running? -->
+
+Go to the deployed website
 
 ## Architecture
-<!-- Provide a detailed description of the application design. What technologies (languages, libraries, etc) you're using, and any other relevant design information. -->
+
+Runs through an App.js and index.js. Languages used in this application are JavaScript, CSS. Bootstrap and React libraries are used as well.
 
 ## Change Log
-<!-- Use this area to document the iterative changes made to your application as each feature is successfully implemented. Use time stamps. Here's an example:
 
-01-01-2001 4:59pm - Application now has a fully-functional express server, with a GET route for the location resource. -->
+10-24-2022 1800 - Application now has a server, still working 
+10-25-2022 2100 - Application is now connected to backend server
 
-## Credit and Collaborations
-<!-- Give credit (and a link) to other people or resources that helped you build this application. -->
-
+10-26-2022 2200 - Application is connected to backend and api's
 
 
+Name of feature: Inital features
 
 
+Start time: 0
+
+Finish time: 4.5 hours
 
 
-# Getting Started with Create React App
+Name of feature: Connect to back end
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+Start time: 0
 
-In the project directory, you can run:
+Finish time: 6 hours
 
-### `npm start`
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+Name of feature: Connected to weather and Movies api's
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
 
-### `npm test`
+Start time: 0
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+Finish time: 7 hours
 
-### `npm run build`
+Name of feature: Refactored features
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+Start time: 0
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Finish time: 1.5 hours
