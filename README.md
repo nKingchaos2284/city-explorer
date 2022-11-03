@@ -1,20 +1,15 @@
 # City Explorer
 
 **Author**: Jose Mauricio Cabrera Elias
-**Version**: 1.0.0 (increment the patch/fix version number if you make more commits past your first submission)
+**Version**: 2.7.0.0 (I started from scratch)
 
-![Request Response](https://user-images.githubusercontent.com/112358229/198851292-90abd33d-8558-4f84-a660-d6d8daef7cb0.jpeg)
-nse.jpeg)
+![Request Response](.img/WRRC-lab-06.png)
 
-![Request Response](./img/request_response.jpeg)
-
-![Request Response](./img/request-response.jpeg)
-
-![Request Response](./img/request-response2.jpeg)
+![Request Response](./img/graph.jpeg)
 
 ## Overview
 
-This is an application that allows you to search for a city and obtain a excact location and map as well.
+This is an application that allows you to search for a city and obtain a exact location and map as well, displays weather and local movie showtime.
 
 ## Getting Started
 
@@ -32,7 +27,7 @@ Runs through an App.js and index.js. Languages used in this application are Java
 10-26-2022 2200 - Application is connected to backend and api's
 
 
-Name of feature: Inital features
+Name of feature: Initial features
 
 
 Start time: 0

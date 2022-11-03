@@ -55,10 +55,7 @@ class App extends React.Component {
     console.log(this.state.city);
     let response;
     try {
-      // TODO: get data back from LocationIQ
-      // Use axios to make my API call
-
-      // define my URL to send to axios:
+    
       let url = `https://us1.locationiq.com/v1/search?key=${process.env.REACT_APP_LOCATIONIQ_API_KEY}&q=${this.state.city}&format=json`
 
 
@@ -67,7 +64,6 @@ class App extends React.Component {
 
 
       response = await axios.get(url);
-
 
       let location = response.data[0];
 
@@ -146,7 +142,8 @@ class App extends React.Component {
         <body id='main'>
           <main>
             <Stack id="main" gap={2} className="col-md-5 mx-auto">
-              <h1 id="head">City Explorer</h1>
+              
+              <h1 id="head">City Daddy</h1>
 
               <Form onSubmit={this.getCityData}>
                 <Form.Group >
@@ -182,14 +179,14 @@ class App extends React.Component {
                   </p>
 
               }
+
+
               <Image id="img" src={this.state.mapData}
                 fluid />
               <Weather
                 weatherData={this.state.weatherApp}
 
               />
-
-
 
 
               <Movie

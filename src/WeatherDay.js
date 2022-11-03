@@ -2,6 +2,7 @@ import React, { Component } from 'react'
 import Accordion from 'react-bootstrap/Accordion';
 
 
+
 export default class WeatherDay extends Component {
   render() {
 
